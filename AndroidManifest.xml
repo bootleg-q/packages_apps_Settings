@@ -3390,5 +3390,9 @@
         </activity>
 
 	    <activity android:name=".deviceinfo.Changelog" />
+
+        <!-- So why not make it longer and add Carbon Features? -->
+        <!-- Hide Apps from Recents (HAFR) -->
+        <activity android:name="com.bootleggers.dumpster.external.hideapp.HAFRAppListActivity" />
     </application>
 </manifest>
