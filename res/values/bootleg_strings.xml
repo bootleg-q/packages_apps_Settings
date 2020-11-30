@@ -233,4 +233,7 @@
         <item quantity="other">%d apps locked</item>
     </plurals>
 
+    <!-- Hostname setting -->
+    <string name="device_hostname">Device hostname</string>
+
 </resources>
